@@ -48,7 +48,7 @@ function onSubmit(e) {
               "color": 33023, 
                 "fields": items,
                 "footer": {
-                    "text": "Nicht vergessen abzustimmen! Discord ID: https://discord.id/"
+                    "text": ""
                 }
             }]
         })
