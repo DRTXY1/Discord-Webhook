@@ -45,7 +45,7 @@ function onSubmit(e) {
             "content": "‌",
             "embeds": [{
                 "title": "Titel des Doc.",
-              "color": 33023, // decimal colour codes https://www.webtoolkitonline.com/hexadecimal-decimal-color-converter.html
+              "color": 33023, 
                 "fields": items,
                 "footer": {
                     "text": "Nicht vergessen abzustimmen! Discord ID: https://discord.id/"
