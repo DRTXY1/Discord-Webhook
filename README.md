@@ -7,4 +7,4 @@ Sende Daten aus ein Google Doc an deine Discord Webhook
 - script.js kopieren und in den Google Scripteditor einfügen
 - Script ausführen, fertig.
 
-https://i.gyazo.com/e37a9bb3cfac433b41bbb05dbeae2c4e.png
+
